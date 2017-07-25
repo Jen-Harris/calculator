@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jen-Harris/calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jen-Harris/calculator/issues"
+  },
+  "homepage": "https://github.com/Jen-Harris/calculator#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
